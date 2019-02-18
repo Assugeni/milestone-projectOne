@@ -1,0 +1,118 @@
+
+/*NavBar*/
+.navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+    opacity: 0.9;
+}
+  
+.navbar li a, .navbar .navbar-brand { 
+    color: #d5d5d5 !important;
+  
+}
+  
+.navbar-nav li a:hover {
+    color: #fff !important;
+  
+}
+  
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #29292c !important;
+}
+  
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+  
+.open .dropdown-toggle {
+  color: #fff ;
+  background-color: #555 !important;
+}
+
+.dropdown-menu li a {
+  color: #000 !important;
+}
+
+/* Remove border and add padding to thumbnails */
+.thumbnail {
+  padding: 0 0 15px 0;
+  border: none;
+  border-radius: 0;
+}
+
+.thumbnail p {
+  margin-top: 15px;
+  color: #555;
+}
+
+.container {
+    padding: 30px 80px;
+} 
+  
+/* carousel*/
+.carousel-inner{
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+}
+
+.bg-1 {
+    background: #2d2d30;
+    color: #bdbdbd;
+}
+
+.row {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+/*Footer*/
+
+footer{
+    background-color: #2d2d30;
+    margin: 0;
+    padding: 65px;
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2{
+  font-size: 20px;
+  font-family: Montserrat, sans-serif;
+}
+
+/*---- Social Links ----*/
+    
+.social-links li a i{
+    width: 67px;
+    height: 67px;
+    padding: 28px 0px;
+    border-radius: 60%;
+    font-size: 30px;
+    line-height: 10px;
+    text-align: center;
+    color: #fafafa;
+    background: #000000;
+     
+}
+
+.social-links li a i:hover{
+    opacity: 0.6;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;    
+}
+
+/*---- Copyright ----*/
+    
+.copyright{
+    padding-top: 20px;
+    font-family: 'Abel', sans-serif;
+    color: #bdbdbd;
+}
