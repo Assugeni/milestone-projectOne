@@ -51,7 +51,7 @@ h3 {
   color: #f5f5f5;
   background-color: #2d2d30;
   margin: auto;
-  margin-top: 40px;
+  margin-top: 45px;
 }
 
 /* Remove border and add padding to thumbnails */
@@ -141,6 +141,12 @@ h3 {
     width: 99%;
     height: 90%;
     border: 0;
+}
+
+/*----------------------------------Gallery*/
+
+.gallery_product{
+    margin-bottom: 30px;
 }
 
 /*---------------------------------------Footer*/
