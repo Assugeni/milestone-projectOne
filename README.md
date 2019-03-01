@@ -6,9 +6,8 @@ This is my portfolio website to present to prospective employers. The portfolio 
 my coding skills, and a contact form.
 
 Demo
-A live demo can be found at https://code-institute-solutions.github.io/StudentExampleProjectGradeThree.
+A live demo can be found at 
 
-UX
 My goal in the design was to make information accessible on the site, while striving for a minimalist design.
 
 Technologies
@@ -29,10 +28,10 @@ Content
 All content in the "About Me" and "Work" sections in this portfolio site were written by me.
 
 Media
-All photos were taken from https://www.pexels.com/, a stock image library.
+All photos were taken from , a stock image library.
 
 Acknowledgements
-The progress circles from the skills section are modeled after the following Stack Overflow: https://stackoverflow.com/questions/14222138/css-progress-circle. They were significantly modified to fit the styling, sizing, and progress for each skill.
+The progress circles from the skills section are modeled after the following Stack Overflow: . They were significantly modified to fit the styling, sizing, and progress for each skill.
 
 This is for educational use.
 
