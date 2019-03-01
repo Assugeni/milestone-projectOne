@@ -2,8 +2,8 @@ Rafael Assugeni Portfolio
 
 Milestone Project One: User Centric Frontend Development - Code Institute
 
-This is my portfolio website to present to prospective employers. The portfolio highlights six projects, a bit about myself, 
-my coding skills, and a contact form.
+This is my portfolio website to present to prospective employers. The portfolio highlights six projects, 
+my coding skills, 
 
 Demo
 A live demo can be found at 
