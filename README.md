@@ -57,3 +57,44 @@ I chose to use embedded music and videos via spotify and youtube, respectively, 
 found that users listen to and view music the most. Most music lovers would either use one or the other, so would be fitting to
 allow them to play music from Fiona via these platforms, which in turn would allow them to create a playlist of their own quite 
 easily.
+
+<h1>HOW IT WAS BUILT</h1>
+
+- The main framework used to help build the website was Bootstrap V3.4.0
+- Icons used were from Font Awesome. 
+- Fonts were Google Fonts.
+
+<h4>Plugins</h4>
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css
+https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css
+https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js
+
+<h1>HOW IT WAS TESTED</h1>
+
+<h4>Summary</h4>
+
+- During and throughout the build, this was tested on google chrome using devTools, and testing responsiveness using the device toolbar. 
+- Also used the elements and style sections of the devTools to troubleshoot coding that seemed to affect my page layout when I couldn't quite work out what the issue was. My mentor reminded me of this tip.
+- Also tested responsiveness by resizing the window everytime I implemented a new piece of code.
+- AND also tested it physically viewing it on mobile, tablet, mac and windows laptop, windows desktop, and different browsers (firefox, safari, google chrome, opera)
+
+<h4>What was tested</h4>
+
+- External links (to her social media, to buy her album, spotify and youtube)
+- Internal links (the navbar to ensure anchors were referenced to the right sections)
+- Margins for the containers (page sections) as fixed navbar alters the margins slightly that when you click on the link to take you to an anchor point, the navbar covers the heading. Changed margins in css to accommodate correct anchor point.
+- Checked button sizes so they were responsive and large enough to be clicked
+- Checked images to ensure they were responsive and displayed appropriately on smaller screens
+- Checked modal-dialog size in smaller screen to ensure it displayed properly.
+- Ensuring header was resized when viewing on smaller screens (aka mobile) and amending padding-bottom to account for navbar covering half the image when viewing on a smaller screen.
+- Ensuring content had no grammatical errors.
+- Checked margins and padding of container (sections) to ensure the content within it didn't look disproportionate on smaller screens.
+- Ensured the iframes were being responsive and displayed properly.
+- HTML and CSS validation via w3.org.
+
+<h1>HOW IT WAS DEPLOYED</h1>
+
+- Used GitHub Pages to deploy final version ()
+- Tested the final published version in the same manner as I documented above in the How It was Tested section
+
