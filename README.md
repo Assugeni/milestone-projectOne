@@ -81,7 +81,7 @@ https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js
 
 <h4>What was tested</h4>
 
-- External links (to her social media, to buy her album, spotify and youtube)
+- External links (to their social media, spotify, youtube and to buy concert tickets)
 - Internal links (the navbar to ensure anchors were referenced to the right sections)
 - Margins for the containers (page sections) as fixed navbar alters the margins slightly that when you click on the link to take you to an anchor point, the navbar covers the heading. Changed margins in css to accommodate correct anchor point.
 - Checked button sizes so they were responsive and large enough to be clicked
