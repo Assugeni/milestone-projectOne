@@ -49,8 +49,6 @@ and visuals dominating the design, rather than have to read through loads of con
 - I wanted users  navigating to different pages.
 
 
-<h4>Colours and Fonts</h4>
-
 <h4>Music and Videos accessible via "External Media" Accounts</h4> 
 
 I chose to use embedded music and videos via spotify and youtube, respectively, as these are two of the main places that i've 
@@ -88,7 +86,7 @@ https://stackoverflow.com/
 
 - External links (to their social media, spotify, youtube and to buy concert tickets)
 - Internal links (the navbar to ensure anchors were referenced to the right sections)
-- Margins for the containers (page sections) as fixed navbar alters the margins slightly that when you click on the link to take you to an anchor point, the navbar covers the heading. Changed margins in css to accommodate correct anchor point.
+- Margins for the containers as fixed navbar alters the margins slightly that when you click on the link to take you to an anchor point, the navbar covers the heading. Changed margins in css to accommodate correct anchor point.
 - Checked button sizes so they were responsive and large enough to be clicked
 - Checked images to ensure they were responsive and displayed appropriately on smaller screens
 - Checked modal-dialog size in smaller screen to ensure it displayed properly.
@@ -102,4 +100,7 @@ https://stackoverflow.com/
 
 - Used GitHub Pages to deploy final version ()
 - Tested the final published version in the same manner as I documented above in the How It was Tested section
+
+
+
 
