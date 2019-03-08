@@ -70,6 +70,11 @@ https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css
 https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js
 
+<h4>Resources</h4>
+https://getbootstrap.com/
+https://www.w3schools.com/ 
+https://stackoverflow.com/
+
 <h1>HOW IT WAS TESTED</h1>
 
 <h4>Summary</h4>
