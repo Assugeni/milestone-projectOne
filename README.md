@@ -23,11 +23,8 @@ Based on the brief, the aim of the website (in both functionality and design) wa
 showcases Puddle of Mudd music to current and new fans. 
 
 <h4>Mockups</h4>
-- Please find paper and pen mockup for the original first design.
-(https://yapics.com/a4210ov0G03-3229) 
-(https://yapics.com/a3210LPAi03-3229) 
-(https://yapics.com/a4210Blxk03-3229) 
-(https://yapics.com/a3210gXKb03-3229)
+- Please find paper and pen mockup for the original first design.(https://ibb.co/hdCXtvD)
+
 
 <h4>The initial stages</h4>
 
@@ -103,10 +100,29 @@ https://stackoverflow.com/
 - Ensured the iframes were being responsive and displayed properly.
 - HTML and CSS validation via w3.org.
 
-<h1>HOW IT WAS DEPLOYED</h1>
+<h1> DEPLOYMENT</h1>
 
-- Used GitHub Pages to deploy final version ()
-- Tested the final published version in the same manner as I documented above in the How It was Tested section
+- To deploy my project I pushed my Cloud9 workspace to my Github repository named milestone-projectOne via the command line. This was done each time edits were made to my code and I needed to save them. Please find live link here https://assugeni.github.io/milestone-projectOne/index.html 
+
+<h1>CREDITS</h1>
+
+<h2>TOUR DATES</h2>
+- The information used for the tour dates timeline in index.html was found from Puddle of Mudd Oficial Website http://puddleofmudd.com/
+- The information used for buying tickets on index.html were from  https://www.bandsintown.com/en/a/453-puddle-of-mudd
+
+<h2>MUSIC</h2>
+- All the music albums were found on Spotify https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5
+
+<h2>Videos</h2>
+- The videos were found on Puddle Of Mudd Youtube Channel https://www.youtube.com/channel/UCNB_pp1iJiEDvTxO5wENMZA
+
+<h2>PHOTOS</h2>
+- The photos from the index.html were found a FanArt website https://fanart.tv/artist/ff460a70-fdf4-4aa2-b021-8a04da76d88e/puddle-of-mudd/. 
+- Some of the photos gallery were found on their facebook page and website.
+
+
+
+
 
 
 
