@@ -31,7 +31,7 @@ showcases Puddle of Mudd music to current and new fans.
 - researched Puddle of Mudd social media, fan sites, and news articles to help me build a picture of the audience I was targeting,
 as well as help me create a "story" of what purpose her website would serve.
 - mapped out what pages were needed.
-- sketched ideas for a "four pages" layout.
+- sketched ideas for a "four pages" website.
 - draft up rough ideas of content that would appear and where.
 - settled on final design.
 
@@ -41,23 +41,15 @@ music fans, it was decided that the following would be implemented:
 
 <h4>Navigation</h4>
 
-The navigation style I chose to use was a fixed navigation, due to the one page layout design. The fixed navigation allows for a 
-user friendly experience on this site.
 
-<h4>Page layout</h4> 
 
-- This kind of layout is suited for mobile users who are already used to a linear experience type of behaviour when scrolling 
-through their phone.
-- The design concept I was striving for was a visually compelling experience, to keep users wanting to see more with images 
-and visuals dominating the design, rather than have to read through loads of content.
-- I wanted users  navigating to different pages.
 
 
 <h4>Music and Videos accessible via "External Media" Accounts</h4> 
 
 I chose to use embedded music and videos via spotify and youtube, respectively, as these are two of the main places that i've 
 found that users listen to and view music the most. Most music lovers would either use one or the other, so would be fitting to
-allow them to play music from Fiona via these platforms, which in turn would allow them to create a playlist of their own quite 
+allow them to play music from Puddle of Mudd via these platforms, which in turn would allow them to create a playlist of their own quite 
 easily.
 
 <h1>HOW IT WAS BUILT</h1>
