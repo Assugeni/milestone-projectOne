@@ -23,7 +23,11 @@ Based on the brief, the aim of the website (in both functionality and design) wa
 showcases Puddle of Mudd music to current and new fans. 
 
 <h4>Mockups</h4>
-- Please find paper and pen mockup for the original first design [Here](https://yapics.com/a4210ov0G03-3229) [Here](https://yapics.com/a3210LPAi03-3229) [Here](https://yapics.com/a4210Blxk03-3229) [Here](https://yapics.com/a3210gXKb03-3229)
+- Please find paper and pen mockup for the original first design.
+(https://yapics.com/a4210ov0G03-3229) 
+(https://yapics.com/a3210LPAi03-3229) 
+(https://yapics.com/a4210Blxk03-3229) 
+(https://yapics.com/a3210gXKb03-3229)
 
 <h4>The initial stages</h4>
 
