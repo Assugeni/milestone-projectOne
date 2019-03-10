@@ -20,7 +20,10 @@ a band called Puddle of Mudd.
  
 <h2>PURPOSE OF WEBSITE</h2>
 Based on the brief, the aim of the website (in both functionality and design) was produce a functional website that essentially 
-showcases Puddle of Mudd music to current and new fans.  
+showcases Puddle of Mudd music to current and new fans. 
+
+<h4>Mockups</h4>
+- Please find paper and pen mockup for the original first design [Here](https://yapics.com/a4210ov0G03-3229) [Here](https://yapics.com/a3210LPAi03-3229) [Here](https://yapics.com/a4210Blxk03-3229) [Here](https://yapics.com/a3210gXKb03-3229)
 
 <h4>The initial stages</h4>
 
@@ -62,7 +65,7 @@ easily.
 - Icons used were from Font Awesome. 
 - Fonts were Google Fonts.
 
-<h4>Plugins</h4>
+<h4>Tech Used</h4>
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css
 https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css
 https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
