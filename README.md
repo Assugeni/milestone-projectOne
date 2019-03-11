@@ -89,17 +89,17 @@ https://stackoverflow.com/
 
 <h1>CREDITS</h1>
 
-<h2>TOUR DATES</h2>
+<h4>TOUR DATES</h4>
 - The information used for the tour dates timeline in index.html was found from Puddle of Mudd Oficial Website http://puddleofmudd.com/
 - The information used for buying tickets on index.html were from  https://www.bandsintown.com/en/a/453-puddle-of-mudd
 
-<h2>MUSIC</h2>
+<h4>MUSIC</h4>
 - All the music albums were found on Spotify https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5
 
-<h2>Videos</h2>
+<h4>Videos</h4>
 - The videos were found on Puddle Of Mudd Youtube Channel https://www.youtube.com/channel/UCNB_pp1iJiEDvTxO5wENMZA
 
-<h2>PHOTOS</h2>
+<h4>PHOTOS</h4>
 - The photos from the index.html were found a FanArt website https://fanart.tv/artist/ff460a70-fdf4-4aa2-b021-8a04da76d88e/puddle-of-mudd/. 
 - Some of the photos gallery were found on their facebook page and website.
 
