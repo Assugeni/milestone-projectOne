@@ -13,14 +13,15 @@ a band called Puddle of Mudd.
 - Use the site to showcase the music and publicise availability to perform at events.
 - The following assets to be showcased on the website:
     - Photos
-    - A video clip
+    - Video clip
     - Audio clips
-    - Links to Facebook, Twitter and YouTube pages.
+    - Links to Youtube ,Twitter and Facebook pages.
 
  
 <h2>PURPOSE OF WEBSITE</h2>
 Based on the brief, the aim of the website (in both functionality and design) was produce a functional website that essentially 
-showcases Puddle of Mudd music to current and new fans. 
+showcases Puddle of Mudd music to current and new fans.
+This website is for individuals interested in, are fans of and who want to know more about Puddle Of Mudd. This website allows these individuals to see what dates and where the band is touring, as well as links to buy tickets to these events. The website also provides popular songs, photos of the band, direct links to their verified social media links and a contact page.
 
 <h4>Mockups</h4>
 - Please find paper and pen mockup for the original first design.(https://ibb.co/hdCXtvD)
@@ -28,23 +29,21 @@ showcases Puddle of Mudd music to current and new fans.
 
 <h4>The initial stages</h4>
 
-- researched Puddle of Mudd social media, fan sites, and news articles to help me build a picture of the audience I was targeting,
-as well as help me create a "story" of what purpose her website would serve.
+- researched Puddle of Mudd social media, fan sites, and news articles to help me build a picture of the audience I was targeting, as well help me create a "story" of what purpose their website would serve.
 - mapped out what pages were needed.
 - sketched ideas for a "four pages" website.
 - draft up rough ideas of content that would appear and where.
 - settled on final design.
 
-After playing with different and potential ideas for the design, as well as taking into consideration the user experience of today's
-music fans, it was decided that the following would be implemented:
+After playing with different and potential ideas for the design, as well as taking into consideration the user experience of today's music fans, it was decided that the following would be implemented:
 
 
 <h4>Navigation</h4>
 
+The navigation style I chose to use was a fixed navigation, due to the one page layout design. The fixed navigation allows for a user friendly experience on this site, as
+there are 7 sections (pages).
 
-
-
-
+ 
 <h4>Music and Videos accessible via "External Media" Accounts</h4> 
 
 I chose to use embedded music and videos via spotify and youtube, respectively, as these are two of the main places that i've 
@@ -112,10 +111,12 @@ https://stackoverflow.com/
 - The photos from the index.html were found a FanArt website https://fanart.tv/artist/ff460a70-fdf4-4aa2-b021-8a04da76d88e/puddle-of-mudd/. 
 - Some of the photos gallery were found on their facebook page and website.
 
+<h4>Issues Encountered</h4>
+- Once I deployed my version on GitHub Pages, I did run into major issues related to grid. I had to go back to lessons and read grid on bootstrap website.
 
 
-
-
+<h4>Outcome</h4>
+- After goes trought the lessons I could manage to make my first website responsive to all devices, as being my first time creating a website I think turned out well. 
 
 
 
