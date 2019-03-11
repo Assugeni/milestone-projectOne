@@ -104,7 +104,7 @@ https://stackoverflow.com/
 - Some of the photos gallery were found on their facebook page and website.
 
 <h1>Issues Encountered</h1>
-- Once I deployed my version on GitHub Pages, I did run into major issues related to grid. I had to go back to lessons and read grid on bootstrap website.
+- Once I deployed my version on GitHub Pages, I did run into major issues related to grid. I had to go back to lessons and read about grid on bootstrap website.
 
 
 <h1>Outcome</h1>
