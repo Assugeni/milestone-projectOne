@@ -35,14 +35,6 @@ This website is for individuals interested in, are fans of and who want to know 
 - draft up rough ideas of content that would appear and where.
 - settled on final design.
 
-After playing with different and potential ideas for the design, as well as taking into consideration the user experience of today's music fans, it was decided that the following would be implemented:
-
-
-<h4>Navigation</h4>
-
-The navigation style I chose to use was a fixed navigation, due to the one page layout design. The fixed navigation allows for a user friendly experience on this site, as
-there are 7 sections (pages).
-
  
 <h4>Music and Videos accessible via "External Media" Accounts</h4> 
 
@@ -111,11 +103,11 @@ https://stackoverflow.com/
 - The photos from the index.html were found a FanArt website https://fanart.tv/artist/ff460a70-fdf4-4aa2-b021-8a04da76d88e/puddle-of-mudd/. 
 - Some of the photos gallery were found on their facebook page and website.
 
-<h4>Issues Encountered</h4>
+<h1>Issues Encountered</h1>
 - Once I deployed my version on GitHub Pages, I did run into major issues related to grid. I had to go back to lessons and read grid on bootstrap website.
 
 
-<h4>Outcome</h4>
+<h1>Outcome</h1>
 - After goes trought the lessons I could manage to make my first website responsive to all devices, as being my first time creating a website I think turned out well. 
 
 
